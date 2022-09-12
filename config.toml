@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://cavalown.github.io/referenceLinks"
 title = "Cavalon's Reference Links Compose"
 theme = "hugo-geekdoc"
 
