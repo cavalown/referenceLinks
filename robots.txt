@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: https://cavalown.github.io/referenceLinks/sitemap.xml
